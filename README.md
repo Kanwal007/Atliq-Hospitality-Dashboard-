@@ -1,6 +1,6 @@
-AtliQ Hospitality Analysis - PowerBI
+# AtliQ Hospitality Analysis - PowerBI
 
-Problem statement:
+## Problem statement:
 
 Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 
 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands 
@@ -10,7 +10,8 @@ share and revenue. However, they do not have an in-house data analytics team to 
 
 Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their 
 historical data.
-Task List
+
+## Task List
 
 You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. 
 You can download all relevant documents from the download section.
@@ -19,7 +20,7 @@ You can download all relevant documents from the download section.
     Create a dashboard according to the mock-up provided by stakeholders.
     Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
-Some Important insights from the Dashboard
+## Some Important insights from the Dashboard
     🔹Mumbai is the top revenue-generating city, followed by Bangalore, Hyderabad, and Delhi.
     🔹AtliQ Exotica outperforms all 7 property types with a revenue of 320 million, rating of 3.62, 
     occupancy percentage of 57%, and cancellation rate of 24.4%.
